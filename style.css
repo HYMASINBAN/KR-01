@@ -1,0 +1,208 @@
+header {
+    width: 1600px;
+    height: 900px;
+    background: linear-gradient(#EDA418, white  );
+}
+.Logo {
+    margin: 20px;
+    float: left;
+}
+h1 {
+    margin-top: 1px;
+    font-family: Arial, sans-serif;
+}
+.VF {
+    position: relative;
+    color: white;
+    width: 45px;
+    height: 48px;
+    top: 18px;
+    font-family: segoe script;
+    left: 75px;
+}
+.LG {
+    position: relative;
+    height: 57px;
+    width: 50px;
+    top: 71px;
+    left: -3px;
+    left: 70px;
+}
+.VFood {
+    margin-top: -25px;
+    margin-left: 60px;
+    position: relative;
+    font-size: 20px;
+    font-family: ARIAL BLACK;
+    left: 70px;
+}
+.main {
+    position: relative;
+    margin-top: -25px;
+    font-size: 20px;
+    margin-left: 632px;
+    font-family: ARIAL BLACK;
+    width: 95px;
+}
+.main:hover {
+    border: 2px black solid;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    cursor: pointer;
+}
+.AX {
+    position: relative;
+    margin-top: -29px;
+    font-size: 20px;
+    margin-left: 850px;
+    font-family: ARIAL BLACK;
+    width: 70px;
+}
+.AX:hover {
+    border: 2px black solid;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    cursor: pointer;
+}
+.about {
+    position: relative;
+    margin-top: -27px;
+    font-size: 20px;
+    margin-left: 1032px;
+    font-family: ARIAL BLACK;
+    width: 67px;
+}
+.about:hover {
+    border: 2px black solid;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    cursor: pointer;
+}
+.icoP {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(56, 56, 56);
+    position: relative;
+    margin-top: -45px;
+    font-size: 20px;
+    margin-left: 1250px;
+    border: 12px solid rgb(56, 56, 56);
+    border-radius: 50%;
+}
+.A {
+    width: 50px;
+}
+.FastT {
+    position: relative;
+    margin-top: 270px;
+    margin-left: 80px;
+    font-size: 42PX;
+    font-family: ARIAL BLACK;
+}
+.FirstS {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 82px;
+    font-size: 20PX;
+    font-family: ARIAL BLACK;
+}
+.Sak {
+    text-align: center;
+    color: white;
+    padding: 10px;
+    background-color: red;
+    width: 120px;
+    border: 1px solid black;
+    height: 40px;
+    top: 523px;
+    left: 130px;
+    border-radius: 50px;
+    margin-left: 80px;
+    margin-top: 40px;
+    font-family: ARIAL;
+    font-size: 23px;
+}
+a {
+    text-decoration: none;
+}
+.Button {
+    margin-top: 6px;
+}
+.Button:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+
+}
+.Burger {
+    position: relative;
+    margin-left: 900px;
+    margin-top: -350px;
+}
+body {
+    width: 1600px;
+    height: 900px;
+    top: 900px;
+    border: 1px;
+}
+
+.Menu {
+    text-align: center;
+    font-family: ARIAL;
+    font-size: 30px;
+}
+.Food {
+    width: 25%;
+    position: relative;
+    float: left;
+    margin: 50px;
+    text-align: center;
+    margin-left: 71px;
+}
+.BR {
+    border: 1px white solid;
+    border-radius: 10%;
+}
+p {
+    font-size: 20px;
+    font-family: ARIAL;
+}
+footer {
+    width: 1600px;
+    height: 300px;
+    background: linear-gradient(white, #EDA418);
+    margin-top: 1000px;
+}
+.FT {
+    float: left;
+    margin-left: 192px;
+    font-family: Sans, sans-serif;
+}
+h2 {
+    display: inline;
+    margin: 100px;
+    font-size: 15px;
+}
+.ooo {
+    position: relative;
+    width: 213px;
+    height: 24px;
+    top: 70px;
+    left: 693px;
+}
+.SP {
+    position: relative;
+    width: 253px;
+    height: 24px;
+    top: 90px;
+    left: 676px;
+}
+.icoF {
+    position: relative;
+    display: inline;
+    left: 700PX;
+    top: 110px;
+    margin: 15px;
+}
